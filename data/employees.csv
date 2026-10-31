@@ -1,0 +1,801 @@
+employee_id,department,location,hire_date,exit_date,exit_type,fte
+SYN-0001,People,Dublin,2023-02-20,2025-12-14,Voluntary,1.00
+SYN-0002,People,Dublin,2025-06-18,,,1.00
+SYN-0003,Engineering,Dublin,2020-03-31,2024-09-28,Voluntary,0.80
+SYN-0004,Customer Support,Galway,2026-03-15,,,1.00
+SYN-0005,Sales,Galway,2026-05-18,,,0.80
+SYN-0006,Customer Support,Dublin,2023-12-02,,,1.00
+SYN-0007,Sales,Dublin,2023-01-14,,,1.00
+SYN-0008,Operations,Dublin,2025-08-29,2029-03-22,Voluntary,1.00
+SYN-0009,Operations,Dublin,2022-02-21,2023-01-23,Voluntary,0.80
+SYN-0010,Customer Support,Dublin,2026-04-14,2028-02-10,Voluntary,0.80
+SYN-0011,Sales,Cork,2024-05-27,,,1.00
+SYN-0012,Finance,Cork,2024-01-21,,,1.00
+SYN-0013,People,Galway,2021-07-13,2022-05-06,Involuntary,0.80
+SYN-0014,Engineering,Dublin,2022-11-26,,,1.00
+SYN-0015,Finance,Dublin,2021-03-04,,,0.50
+SYN-0016,Finance,Dublin,2021-01-05,,,1.00
+SYN-0017,Customer Support,Galway,2020-07-13,,,1.00
+SYN-0018,People,Galway,2024-08-27,2028-10-06,Voluntary,1.00
+SYN-0019,Customer Support,Cork,2020-03-12,,,0.50
+SYN-0020,Sales,Galway,2022-09-04,,,0.80
+SYN-0021,Engineering,Dublin,2021-07-05,,,0.80
+SYN-0022,Finance,Dublin,2022-11-07,,,0.80
+SYN-0023,Operations,Dublin,2023-11-19,2026-04-18,Involuntary,1.00
+SYN-0024,Sales,Dublin,2024-01-30,,,1.00
+SYN-0025,Operations,Dublin,2020-10-12,2023-10-11,Voluntary,1.00
+SYN-0026,People,Galway,2025-10-26,2027-09-25,Voluntary,0.80
+SYN-0027,Engineering,Dublin,2024-08-17,,,0.50
+SYN-0028,Finance,Dublin,2021-05-11,2022-09-04,Voluntary,1.00
+SYN-0029,Finance,Cork,2021-02-13,2023-09-23,Voluntary,1.00
+SYN-0030,Finance,Galway,2020-01-08,,,0.50
+SYN-0031,Sales,Dublin,2021-05-03,2025-01-12,Voluntary,0.50
+SYN-0032,People,Dublin,2024-06-01,2025-05-21,Voluntary,1.00
+SYN-0033,Customer Support,Galway,2026-10-08,2029-03-19,Voluntary,1.00
+SYN-0034,Operations,Galway,2025-07-20,,,1.00
+SYN-0035,Finance,Galway,2021-07-02,2024-12-05,Voluntary,1.00
+SYN-0036,Sales,Galway,2025-08-15,,,1.00
+SYN-0037,Finance,Dublin,2021-09-13,,,0.50
+SYN-0038,Customer Support,Dublin,2020-03-09,2021-04-14,Involuntary,1.00
+SYN-0039,Operations,Cork,2021-12-18,2026-09-07,Voluntary,0.50
+SYN-0040,Engineering,Galway,2025-09-07,,,0.50
+SYN-0041,Finance,Dublin,2021-09-22,,,1.00
+SYN-0042,Customer Support,Dublin,2022-08-25,2022-11-04,Involuntary,0.50
+SYN-0043,Engineering,Dublin,2024-11-06,,,1.00
+SYN-0044,Engineering,Dublin,2026-02-17,,,1.00
+SYN-0045,Finance,Dublin,2022-12-15,2027-05-04,Voluntary,1.00
+SYN-0046,Finance,Cork,2025-03-10,2028-12-10,Involuntary,0.50
+SYN-0047,Engineering,Dublin,2023-08-02,,,1.00
+SYN-0048,People,Dublin,2021-04-24,,,1.00
+SYN-0049,Operations,Galway,2022-01-30,,,0.50
+SYN-0050,People,Dublin,2026-06-05,2029-05-15,Voluntary,1.00
+SYN-0051,Finance,Dublin,2021-09-06,2025-04-26,Voluntary,1.00
+SYN-0052,People,Cork,2020-03-22,2021-11-03,Voluntary,0.80
+SYN-0053,People,Galway,2022-11-26,,,0.50
+SYN-0054,Customer Support,Dublin,2023-05-11,,,1.00
+SYN-0055,Sales,Cork,2021-01-27,,,0.50
+SYN-0056,Operations,Galway,2023-03-09,2028-01-08,Involuntary,1.00
+SYN-0057,Customer Support,Dublin,2021-09-22,,,1.00
+SYN-0058,Finance,Dublin,2020-03-22,,,1.00
+SYN-0059,Customer Support,Dublin,2026-03-08,,,1.00
+SYN-0060,Finance,Galway,2024-04-10,2028-11-30,Voluntary,0.80
+SYN-0061,Operations,Dublin,2026-09-01,,,1.00
+SYN-0062,People,Cork,2025-05-31,,,1.00
+SYN-0063,Engineering,Dublin,2024-08-16,,,1.00
+SYN-0064,Customer Support,Galway,2021-12-02,2023-01-31,Voluntary,0.50
+SYN-0065,Operations,Dublin,2025-03-09,,,1.00
+SYN-0066,Customer Support,Cork,2021-08-17,,,0.80
+SYN-0067,Finance,Dublin,2025-06-07,2028-06-16,Involuntary,0.50
+SYN-0068,Sales,Cork,2021-08-06,,,0.80
+SYN-0069,Finance,Cork,2025-12-25,,,0.50
+SYN-0070,Engineering,Dublin,2021-02-24,,,0.80
+SYN-0071,Customer Support,Dublin,2021-11-23,,,0.50
+SYN-0072,Engineering,Dublin,2025-12-23,2029-08-13,Voluntary,0.80
+SYN-0073,Finance,Cork,2020-12-24,,,0.50
+SYN-0074,Finance,Galway,2024-05-21,,,1.00
+SYN-0075,Engineering,Dublin,2024-09-24,,,1.00
+SYN-0076,Operations,Dublin,2021-02-21,2024-01-26,Voluntary,0.50
+SYN-0077,People,Cork,2025-08-17,,,0.50
+SYN-0078,People,Dublin,2022-06-19,,,1.00
+SYN-0079,Operations,Dublin,2025-10-10,2027-10-15,Voluntary,1.00
+SYN-0080,Sales,Dublin,2025-07-23,,,0.80
+SYN-0081,Operations,Galway,2020-07-01,2020-08-17,Involuntary,0.50
+SYN-0082,Sales,Cork,2024-01-05,2028-08-04,Involuntary,1.00
+SYN-0083,People,Dublin,2021-02-26,,,1.00
+SYN-0084,Operations,Dublin,2023-06-04,2026-04-28,Involuntary,1.00
+SYN-0085,Customer Support,Dublin,2023-12-03,,,1.00
+SYN-0086,Operations,Cork,2022-03-21,,,1.00
+SYN-0087,Engineering,Galway,2023-02-15,2024-08-04,Involuntary,1.00
+SYN-0088,Customer Support,Galway,2020-01-01,,,0.80
+SYN-0089,Operations,Dublin,2022-04-07,2025-06-05,Voluntary,0.80
+SYN-0090,Operations,Galway,2025-04-21,,,1.00
+SYN-0091,Finance,Cork,2020-11-15,,,1.00
+SYN-0092,Customer Support,Dublin,2024-10-30,,,0.80
+SYN-0093,Operations,Dublin,2023-12-06,,,1.00
+SYN-0094,Finance,Cork,2020-02-01,2023-05-04,Voluntary,1.00
+SYN-0095,People,Dublin,2021-12-07,2025-03-27,Voluntary,0.80
+SYN-0096,Engineering,Dublin,2020-03-31,,,1.00
+SYN-0097,People,Cork,2026-07-27,,,0.50
+SYN-0098,Sales,Dublin,2020-06-13,,,0.50
+SYN-0099,Engineering,Dublin,2021-06-08,,,1.00
+SYN-0100,Sales,Dublin,2023-07-27,,,1.00
+SYN-0101,Customer Support,Dublin,2023-10-26,,,1.00
+SYN-0102,Customer Support,Dublin,2026-09-06,,,1.00
+SYN-0103,Operations,Dublin,2020-09-28,,,0.80
+SYN-0104,Engineering,Dublin,2022-09-28,2025-01-19,Voluntary,1.00
+SYN-0105,Engineering,Dublin,2023-12-23,2026-02-26,Voluntary,1.00
+SYN-0106,Sales,Dublin,2021-08-27,2025-06-22,Voluntary,1.00
+SYN-0107,Operations,Dublin,2022-08-14,,,0.50
+SYN-0108,Sales,Dublin,2025-01-27,,,0.50
+SYN-0109,Engineering,Dublin,2024-01-31,2027-07-03,Voluntary,1.00
+SYN-0110,Finance,Dublin,2023-11-13,2026-08-24,Involuntary,1.00
+SYN-0111,Finance,Dublin,2025-11-11,,,0.50
+SYN-0112,Customer Support,Galway,2025-08-09,,,1.00
+SYN-0113,Sales,Dublin,2022-04-19,2025-11-15,Voluntary,0.80
+SYN-0114,Finance,Dublin,2026-10-26,,,0.80
+SYN-0115,Customer Support,Galway,2023-11-11,,,0.80
+SYN-0116,Operations,Galway,2023-03-17,,,0.50
+SYN-0117,Customer Support,Dublin,2023-08-21,,,1.00
+SYN-0118,Engineering,Cork,2025-04-20,,,0.50
+SYN-0119,Operations,Cork,2022-11-13,,,1.00
+SYN-0120,Sales,Cork,2023-08-28,2027-06-09,Voluntary,1.00
+SYN-0121,Engineering,Galway,2025-03-01,,,1.00
+SYN-0122,Customer Support,Dublin,2022-01-26,,,1.00
+SYN-0123,Finance,Galway,2020-06-28,,,0.50
+SYN-0124,Customer Support,Cork,2021-05-03,2024-04-20,Voluntary,1.00
+SYN-0125,People,Dublin,2022-08-14,2023-07-25,Voluntary,0.80
+SYN-0126,Customer Support,Dublin,2023-04-24,2026-12-22,Voluntary,1.00
+SYN-0127,Finance,Dublin,2025-06-27,,,0.50
+SYN-0128,Engineering,Dublin,2021-09-12,,,0.80
+SYN-0129,Finance,Dublin,2026-04-24,2028-10-11,Voluntary,1.00
+SYN-0130,Finance,Dublin,2021-04-10,,,0.80
+SYN-0131,People,Dublin,2022-11-09,2024-05-04,Voluntary,1.00
+SYN-0132,Operations,Cork,2025-10-13,,,1.00
+SYN-0133,Finance,Dublin,2021-09-06,2025-09-26,Voluntary,0.80
+SYN-0134,People,Cork,2022-05-29,,,1.00
+SYN-0135,Finance,Galway,2024-04-01,,,1.00
+SYN-0136,Finance,Dublin,2025-09-24,2029-09-08,Voluntary,1.00
+SYN-0137,Engineering,Galway,2022-12-05,2025-10-05,Voluntary,1.00
+SYN-0138,Operations,Dublin,2024-05-25,,,1.00
+SYN-0139,Operations,Dublin,2022-11-10,,,0.50
+SYN-0140,Finance,Cork,2020-12-05,,,1.00
+SYN-0141,Finance,Dublin,2026-08-17,,,1.00
+SYN-0142,Engineering,Dublin,2026-05-11,2030-12-25,Involuntary,1.00
+SYN-0143,Engineering,Galway,2023-02-07,2026-03-12,Voluntary,1.00
+SYN-0144,Finance,Cork,2021-12-31,,,0.50
+SYN-0145,People,Cork,2021-01-23,,,1.00
+SYN-0146,Engineering,Dublin,2024-05-02,2027-10-12,Voluntary,1.00
+SYN-0147,People,Dublin,2020-03-30,2022-05-15,Voluntary,0.50
+SYN-0148,Finance,Dublin,2023-08-01,2027-04-24,Voluntary,0.80
+SYN-0149,Customer Support,Cork,2025-02-10,,,0.50
+SYN-0150,Operations,Dublin,2024-11-12,,,1.00
+SYN-0151,Operations,Dublin,2025-08-26,,,0.50
+SYN-0152,People,Galway,2022-10-12,,,1.00
+SYN-0153,Customer Support,Galway,2023-12-26,2027-08-13,Voluntary,0.80
+SYN-0154,Customer Support,Dublin,2021-06-19,,,1.00
+SYN-0155,Engineering,Galway,2024-10-12,2028-10-25,Voluntary,0.80
+SYN-0156,Engineering,Dublin,2020-11-20,2024-05-01,Voluntary,1.00
+SYN-0157,Operations,Cork,2021-10-30,,,1.00
+SYN-0158,Customer Support,Cork,2021-04-02,2024-10-24,Voluntary,1.00
+SYN-0159,Finance,Dublin,2024-10-24,2025-06-05,Voluntary,1.00
+SYN-0160,Customer Support,Dublin,2021-10-12,,,0.50
+SYN-0161,Operations,Galway,2022-12-28,2023-02-28,Voluntary,1.00
+SYN-0162,Operations,Galway,2024-09-03,2026-10-11,Voluntary,1.00
+SYN-0163,People,Dublin,2026-10-18,2030-11-24,Voluntary,1.00
+SYN-0164,Engineering,Galway,2023-12-08,,,0.80
+SYN-0165,People,Cork,2022-06-06,,,1.00
+SYN-0166,Engineering,Cork,2022-03-05,2026-02-26,Voluntary,1.00
+SYN-0167,Customer Support,Dublin,2025-12-06,,,1.00
+SYN-0168,Finance,Dublin,2023-08-31,,,0.50
+SYN-0169,Operations,Dublin,2024-10-09,2029-08-03,Voluntary,1.00
+SYN-0170,Customer Support,Galway,2021-06-04,,,1.00
+SYN-0171,Engineering,Galway,2020-09-21,,,1.00
+SYN-0172,Engineering,Cork,2026-09-20,,,0.50
+SYN-0173,Operations,Dublin,2020-02-22,2023-01-22,Voluntary,1.00
+SYN-0174,Customer Support,Dublin,2024-03-18,2025-06-12,Voluntary,1.00
+SYN-0175,People,Dublin,2026-06-06,,,1.00
+SYN-0176,People,Dublin,2024-05-20,2028-02-19,Voluntary,1.00
+SYN-0177,People,Dublin,2023-06-13,2025-03-25,Involuntary,1.00
+SYN-0178,Operations,Dublin,2026-07-06,,,0.50
+SYN-0179,Engineering,Dublin,2020-02-26,,,1.00
+SYN-0180,Customer Support,Dublin,2021-12-22,,,1.00
+SYN-0181,Engineering,Dublin,2026-01-06,,,1.00
+SYN-0182,Finance,Dublin,2025-08-06,,,1.00
+SYN-0183,People,Dublin,2025-02-14,,,1.00
+SYN-0184,Customer Support,Dublin,2022-05-12,2026-03-29,Voluntary,0.80
+SYN-0185,Engineering,Cork,2020-03-06,2023-12-24,Voluntary,0.80
+SYN-0186,People,Dublin,2021-12-15,2026-01-01,Voluntary,1.00
+SYN-0187,Finance,Dublin,2021-10-02,,,1.00
+SYN-0188,Finance,Dublin,2025-09-17,,,1.00
+SYN-0189,Finance,Galway,2024-06-25,,,1.00
+SYN-0190,Operations,Cork,2024-11-10,,,1.00
+SYN-0191,Operations,Dublin,2026-06-07,2027-02-13,Voluntary,0.80
+SYN-0192,Engineering,Cork,2021-05-07,,,1.00
+SYN-0193,People,Galway,2023-05-24,,,0.50
+SYN-0194,Engineering,Dublin,2023-03-22,2025-04-13,Voluntary,1.00
+SYN-0195,People,Dublin,2020-02-12,,,1.00
+SYN-0196,People,Galway,2024-08-17,,,1.00
+SYN-0197,Engineering,Dublin,2025-10-28,2028-12-17,Voluntary,1.00
+SYN-0198,Finance,Dublin,2025-02-06,,,0.80
+SYN-0199,People,Dublin,2026-01-26,,,1.00
+SYN-0200,Sales,Dublin,2025-11-11,2028-02-09,Voluntary,1.00
+SYN-0201,Customer Support,Dublin,2022-02-23,,,1.00
+SYN-0202,Finance,Cork,2022-09-06,,,0.50
+SYN-0203,Operations,Cork,2021-01-16,,,1.00
+SYN-0204,People,Cork,2022-01-21,,,0.50
+SYN-0205,Engineering,Dublin,2025-03-16,,,0.50
+SYN-0206,Finance,Dublin,2020-02-20,2022-09-25,Voluntary,0.50
+SYN-0207,People,Cork,2020-10-29,,,0.50
+SYN-0208,Sales,Dublin,2025-02-18,,,1.00
+SYN-0209,Engineering,Dublin,2020-12-18,,,1.00
+SYN-0210,Engineering,Dublin,2024-10-07,2027-09-08,Voluntary,0.50
+SYN-0211,Sales,Cork,2023-08-27,,,1.00
+SYN-0212,People,Galway,2025-02-20,,,1.00
+SYN-0213,Engineering,Cork,2024-03-07,,,0.50
+SYN-0214,Sales,Galway,2026-09-23,2031-03-10,Involuntary,1.00
+SYN-0215,Customer Support,Dublin,2025-02-25,2029-03-23,Voluntary,0.50
+SYN-0216,Operations,Dublin,2020-01-05,2023-11-21,Voluntary,1.00
+SYN-0217,Sales,Dublin,2023-04-05,,,0.80
+SYN-0218,Finance,Dublin,2026-06-24,2027-01-06,Voluntary,1.00
+SYN-0219,Operations,Dublin,2023-02-18,2027-06-17,Voluntary,1.00
+SYN-0220,Finance,Dublin,2022-01-29,,,0.50
+SYN-0221,Sales,Dublin,2023-02-11,2023-05-13,Voluntary,1.00
+SYN-0222,Operations,Galway,2024-12-08,2025-07-08,Involuntary,1.00
+SYN-0223,Finance,Dublin,2024-12-14,,,0.50
+SYN-0224,Sales,Dublin,2025-09-11,2028-08-02,Voluntary,0.50
+SYN-0225,Finance,Galway,2022-04-11,2023-09-28,Voluntary,1.00
+SYN-0226,Finance,Cork,2021-12-21,,,1.00
+SYN-0227,Customer Support,Dublin,2021-05-03,2024-02-26,Voluntary,0.50
+SYN-0228,People,Dublin,2023-11-24,,,1.00
+SYN-0229,People,Dublin,2022-08-10,,,1.00
+SYN-0230,Operations,Dublin,2021-01-10,,,0.80
+SYN-0231,Sales,Dublin,2024-04-14,2027-07-24,Voluntary,1.00
+SYN-0232,Customer Support,Cork,2025-04-12,,,1.00
+SYN-0233,Engineering,Dublin,2022-03-16,2025-12-29,Voluntary,1.00
+SYN-0234,Operations,Dublin,2022-06-17,2023-11-22,Voluntary,1.00
+SYN-0235,Operations,Dublin,2024-08-30,2028-11-05,Voluntary,1.00
+SYN-0236,Finance,Cork,2021-09-16,2025-09-21,Involuntary,1.00
+SYN-0237,Engineering,Dublin,2026-10-10,,,1.00
+SYN-0238,Customer Support,Dublin,2024-01-22,,,1.00
+SYN-0239,Finance,Dublin,2022-12-02,2023-07-09,Involuntary,0.50
+SYN-0240,People,Dublin,2021-05-14,2022-09-25,Voluntary,1.00
+SYN-0241,Finance,Dublin,2025-04-29,,,1.00
+SYN-0242,Operations,Cork,2024-11-03,,,0.50
+SYN-0243,Customer Support,Cork,2025-08-01,2027-12-18,Voluntary,1.00
+SYN-0244,Finance,Cork,2024-12-05,,,1.00
+SYN-0245,Engineering,Galway,2024-11-29,,,0.80
+SYN-0246,Finance,Dublin,2023-11-03,,,1.00
+SYN-0247,Operations,Dublin,2026-07-17,,,1.00
+SYN-0248,Sales,Dublin,2026-08-28,,,0.50
+SYN-0249,Finance,Dublin,2024-07-11,2025-05-30,Involuntary,0.50
+SYN-0250,Customer Support,Dublin,2021-05-14,,,1.00
+SYN-0251,Customer Support,Dublin,2025-05-25,,,1.00
+SYN-0252,Engineering,Galway,2021-01-16,2023-12-02,Voluntary,1.00
+SYN-0253,Customer Support,Dublin,2021-08-18,,,1.00
+SYN-0254,People,Galway,2022-12-17,,,1.00
+SYN-0255,Finance,Dublin,2026-05-02,,,1.00
+SYN-0256,Customer Support,Dublin,2023-09-08,,,1.00
+SYN-0257,Customer Support,Dublin,2021-12-26,,,1.00
+SYN-0258,Operations,Dublin,2026-04-23,,,1.00
+SYN-0259,People,Dublin,2026-03-14,2030-07-31,Voluntary,1.00
+SYN-0260,Sales,Galway,2026-03-06,2028-04-01,Involuntary,1.00
+SYN-0261,Sales,Galway,2023-10-03,,,1.00
+SYN-0262,Finance,Galway,2021-11-25,2023-10-11,Voluntary,1.00
+SYN-0263,Engineering,Dublin,2022-05-16,,,0.80
+SYN-0264,Operations,Dublin,2024-01-25,,,1.00
+SYN-0265,Customer Support,Cork,2022-06-21,,,0.80
+SYN-0266,People,Cork,2021-11-03,,,0.50
+SYN-0267,Engineering,Dublin,2023-10-24,,,1.00
+SYN-0268,Sales,Dublin,2026-05-02,,,1.00
+SYN-0269,Engineering,Dublin,2025-02-18,,,0.80
+SYN-0270,People,Cork,2020-08-31,,,0.50
+SYN-0271,Finance,Dublin,2023-06-21,,,1.00
+SYN-0272,People,Cork,2021-12-31,,,1.00
+SYN-0273,Engineering,Cork,2022-07-11,2025-10-17,Involuntary,1.00
+SYN-0274,Finance,Dublin,2022-01-18,,,0.80
+SYN-0275,Engineering,Dublin,2022-06-20,,,1.00
+SYN-0276,Engineering,Dublin,2022-07-23,,,0.80
+SYN-0277,Finance,Dublin,2026-10-02,,,1.00
+SYN-0278,Customer Support,Dublin,2020-07-02,2024-02-19,Involuntary,1.00
+SYN-0279,People,Dublin,2022-05-18,,,0.50
+SYN-0280,Operations,Dublin,2020-08-13,,,1.00
+SYN-0281,Sales,Dublin,2026-06-22,,,1.00
+SYN-0282,Customer Support,Galway,2024-05-01,,,0.50
+SYN-0283,People,Dublin,2020-06-20,,,1.00
+SYN-0284,Sales,Galway,2024-01-11,,,0.50
+SYN-0285,People,Dublin,2020-08-14,,,0.50
+SYN-0286,People,Dublin,2025-05-28,2029-07-12,Involuntary,1.00
+SYN-0287,Operations,Galway,2024-02-10,,,0.50
+SYN-0288,Finance,Galway,2024-07-21,,,1.00
+SYN-0289,Engineering,Galway,2026-08-22,2030-12-13,Involuntary,1.00
+SYN-0290,Operations,Galway,2021-03-28,,,0.50
+SYN-0291,Sales,Dublin,2023-08-28,,,1.00
+SYN-0292,Customer Support,Dublin,2026-02-21,,,1.00
+SYN-0293,People,Galway,2022-08-15,,,1.00
+SYN-0294,Customer Support,Cork,2024-08-27,,,1.00
+SYN-0295,Operations,Galway,2021-02-11,,,1.00
+SYN-0296,People,Galway,2021-04-30,,,1.00
+SYN-0297,People,Galway,2024-07-21,,,0.80
+SYN-0298,Engineering,Galway,2020-12-12,2022-06-11,Voluntary,1.00
+SYN-0299,People,Dublin,2026-09-05,2031-03-29,Involuntary,1.00
+SYN-0300,People,Dublin,2020-07-03,,,1.00
+SYN-0301,Finance,Cork,2021-09-01,,,1.00
+SYN-0302,People,Cork,2023-06-24,2028-03-08,Voluntary,0.80
+SYN-0303,Finance,Dublin,2021-06-07,2022-10-15,Voluntary,0.50
+SYN-0304,People,Dublin,2023-09-23,,,1.00
+SYN-0305,Customer Support,Dublin,2026-04-10,,,1.00
+SYN-0306,Operations,Galway,2022-10-02,2026-07-22,Voluntary,1.00
+SYN-0307,Operations,Dublin,2023-06-01,2025-05-26,Involuntary,0.80
+SYN-0308,Engineering,Dublin,2022-03-15,,,0.50
+SYN-0309,Sales,Galway,2020-06-02,2021-07-28,Voluntary,1.00
+SYN-0310,Engineering,Dublin,2026-05-17,2027-03-13,Voluntary,0.80
+SYN-0311,Customer Support,Dublin,2020-05-22,,,1.00
+SYN-0312,Finance,Dublin,2026-09-15,,,0.50
+SYN-0313,Operations,Galway,2026-07-16,,,1.00
+SYN-0314,Sales,Cork,2024-07-30,,,0.50
+SYN-0315,Engineering,Dublin,2020-08-29,,,0.50
+SYN-0316,Engineering,Galway,2026-09-21,,,1.00
+SYN-0317,Finance,Dublin,2023-06-28,2025-11-24,Involuntary,0.50
+SYN-0318,Operations,Cork,2021-08-15,2023-11-21,Involuntary,1.00
+SYN-0319,Customer Support,Dublin,2021-10-27,,,1.00
+SYN-0320,Customer Support,Cork,2024-06-19,,,0.50
+SYN-0321,Engineering,Dublin,2022-09-03,,,0.80
+SYN-0322,Engineering,Dublin,2020-02-19,,,1.00
+SYN-0323,Sales,Dublin,2024-04-04,,,1.00
+SYN-0324,Sales,Dublin,2023-01-01,2027-08-03,Voluntary,0.80
+SYN-0325,Finance,Dublin,2023-11-05,2028-05-19,Voluntary,1.00
+SYN-0326,Sales,Dublin,2025-02-04,,,1.00
+SYN-0327,Sales,Dublin,2022-10-02,,,0.80
+SYN-0328,Customer Support,Dublin,2023-11-04,,,1.00
+SYN-0329,People,Dublin,2024-03-10,,,0.80
+SYN-0330,People,Cork,2023-03-21,,,1.00
+SYN-0331,People,Dublin,2026-04-29,2027-03-21,Voluntary,1.00
+SYN-0332,Finance,Dublin,2022-04-28,,,1.00
+SYN-0333,Customer Support,Dublin,2026-09-20,,,1.00
+SYN-0334,People,Dublin,2025-05-14,,,0.50
+SYN-0335,Sales,Dublin,2020-07-06,,,1.00
+SYN-0336,Sales,Dublin,2024-11-15,2026-03-07,Voluntary,1.00
+SYN-0337,Sales,Galway,2026-06-14,2030-09-14,Voluntary,1.00
+SYN-0338,Engineering,Dublin,2022-11-15,2025-06-04,Voluntary,0.50
+SYN-0339,Finance,Dublin,2022-02-12,,,0.50
+SYN-0340,People,Dublin,2021-02-11,,,1.00
+SYN-0341,People,Galway,2026-03-17,,,1.00
+SYN-0342,People,Dublin,2021-12-01,,,1.00
+SYN-0343,Sales,Dublin,2023-10-10,,,0.80
+SYN-0344,Finance,Dublin,2023-01-07,,,0.50
+SYN-0345,Engineering,Dublin,2021-09-08,,,1.00
+SYN-0346,Finance,Dublin,2021-08-02,,,0.50
+SYN-0347,Sales,Cork,2023-01-19,,,0.80
+SYN-0348,Operations,Dublin,2023-06-24,,,1.00
+SYN-0349,Finance,Galway,2020-09-07,2025-07-23,Voluntary,1.00
+SYN-0350,Customer Support,Dublin,2020-06-12,,,1.00
+SYN-0351,People,Cork,2026-07-06,2029-02-22,Voluntary,1.00
+SYN-0352,People,Cork,2024-08-22,,,1.00
+SYN-0353,Customer Support,Dublin,2024-03-16,,,0.80
+SYN-0354,Operations,Dublin,2024-07-10,,,1.00
+SYN-0355,Operations,Dublin,2021-06-30,,,1.00
+SYN-0356,Sales,Dublin,2020-04-29,2023-07-24,Voluntary,0.50
+SYN-0357,Engineering,Dublin,2020-09-20,2023-02-12,Voluntary,0.50
+SYN-0358,People,Dublin,2023-09-28,,,1.00
+SYN-0359,Operations,Galway,2026-02-14,2029-01-03,Voluntary,0.50
+SYN-0360,Engineering,Dublin,2024-05-30,,,1.00
+SYN-0361,Operations,Galway,2024-04-22,,,0.80
+SYN-0362,Operations,Galway,2022-07-23,,,0.50
+SYN-0363,People,Dublin,2022-04-18,,,1.00
+SYN-0364,Sales,Dublin,2020-02-16,,,1.00
+SYN-0365,Finance,Dublin,2025-01-21,,,1.00
+SYN-0366,People,Cork,2024-11-15,,,0.50
+SYN-0367,Sales,Dublin,2024-11-23,2025-12-01,Voluntary,0.80
+SYN-0368,Operations,Cork,2021-12-08,2026-05-23,Voluntary,1.00
+SYN-0369,Operations,Dublin,2021-05-18,2022-02-08,Voluntary,1.00
+SYN-0370,Sales,Galway,2022-09-06,,,1.00
+SYN-0371,Sales,Dublin,2023-04-14,,,1.00
+SYN-0372,Engineering,Dublin,2024-09-13,2027-01-16,Voluntary,1.00
+SYN-0373,Sales,Dublin,2020-02-26,2023-03-02,Voluntary,0.80
+SYN-0374,Customer Support,Dublin,2026-01-09,2027-01-06,Voluntary,1.00
+SYN-0375,Customer Support,Dublin,2022-07-09,2023-03-05,Involuntary,1.00
+SYN-0376,Customer Support,Dublin,2024-01-29,,,0.50
+SYN-0377,Finance,Dublin,2025-01-19,2025-06-30,Involuntary,0.80
+SYN-0378,Customer Support,Dublin,2020-12-15,,,1.00
+SYN-0379,Finance,Cork,2020-06-20,,,0.80
+SYN-0380,Engineering,Cork,2024-11-19,2027-11-11,Voluntary,1.00
+SYN-0381,Operations,Dublin,2022-08-26,,,1.00
+SYN-0382,Operations,Dublin,2025-09-17,,,0.50
+SYN-0383,Finance,Dublin,2022-09-30,2024-03-26,Voluntary,0.50
+SYN-0384,Sales,Dublin,2025-11-14,,,0.80
+SYN-0385,People,Cork,2022-12-23,2026-06-13,Voluntary,0.80
+SYN-0386,Engineering,Dublin,2026-09-13,,,1.00
+SYN-0387,Operations,Dublin,2020-06-22,2023-05-28,Voluntary,0.50
+SYN-0388,Engineering,Dublin,2026-08-07,,,0.50
+SYN-0389,Finance,Dublin,2020-06-08,2022-08-23,Voluntary,1.00
+SYN-0390,People,Dublin,2024-06-02,,,0.50
+SYN-0391,Finance,Galway,2025-10-08,2029-07-05,Voluntary,0.50
+SYN-0392,Customer Support,Dublin,2023-03-31,,,1.00
+SYN-0393,Engineering,Dublin,2026-06-30,,,0.80
+SYN-0394,Operations,Dublin,2020-08-21,,,0.50
+SYN-0395,Sales,Galway,2020-07-26,,,0.50
+SYN-0396,Customer Support,Dublin,2024-05-12,,,1.00
+SYN-0397,People,Dublin,2023-03-02,,,0.80
+SYN-0398,Finance,Dublin,2025-08-25,2028-01-19,Voluntary,0.80
+SYN-0399,Engineering,Dublin,2020-07-09,,,1.00
+SYN-0400,People,Dublin,2021-03-27,,,0.80
+SYN-0401,People,Dublin,2021-04-20,,,0.80
+SYN-0402,Engineering,Dublin,2021-03-03,2021-05-08,Voluntary,0.50
+SYN-0403,Customer Support,Dublin,2026-06-02,,,1.00
+SYN-0404,People,Galway,2022-06-15,2026-02-24,Involuntary,0.80
+SYN-0405,Engineering,Cork,2020-12-01,2024-12-01,Voluntary,1.00
+SYN-0406,People,Dublin,2026-04-01,,,0.50
+SYN-0407,Finance,Cork,2024-09-05,,,0.50
+SYN-0408,Finance,Cork,2020-06-25,,,1.00
+SYN-0409,People,Galway,2024-12-25,2026-09-04,Voluntary,1.00
+SYN-0410,People,Galway,2022-02-12,2026-06-12,Voluntary,0.50
+SYN-0411,Sales,Dublin,2025-08-24,,,1.00
+SYN-0412,People,Dublin,2026-07-30,,,1.00
+SYN-0413,Engineering,Dublin,2026-03-07,2027-03-16,Voluntary,1.00
+SYN-0414,Finance,Dublin,2026-08-19,2030-03-27,Voluntary,0.50
+SYN-0415,Customer Support,Dublin,2024-03-23,2024-12-31,Voluntary,1.00
+SYN-0416,Operations,Dublin,2023-09-17,2026-10-25,Voluntary,1.00
+SYN-0417,Engineering,Dublin,2020-10-15,2021-09-05,Involuntary,1.00
+SYN-0418,Sales,Dublin,2026-02-13,2028-07-08,Voluntary,1.00
+SYN-0419,Customer Support,Dublin,2020-12-12,,,1.00
+SYN-0420,Sales,Cork,2021-11-02,,,1.00
+SYN-0421,Engineering,Galway,2025-07-27,,,1.00
+SYN-0422,Operations,Dublin,2021-12-25,,,1.00
+SYN-0423,Operations,Galway,2022-09-13,,,1.00
+SYN-0424,People,Dublin,2023-04-06,,,1.00
+SYN-0425,Sales,Dublin,2022-07-31,,,1.00
+SYN-0426,People,Dublin,2022-10-03,,,0.80
+SYN-0427,Operations,Dublin,2021-05-17,,,0.80
+SYN-0428,Customer Support,Dublin,2025-03-27,2028-07-20,Voluntary,0.50
+SYN-0429,People,Galway,2025-03-13,,,0.50
+SYN-0430,Sales,Dublin,2024-06-28,2028-06-07,Involuntary,1.00
+SYN-0431,Finance,Dublin,2023-01-12,2024-06-25,Voluntary,0.80
+SYN-0432,Finance,Dublin,2020-05-23,,,0.50
+SYN-0433,Customer Support,Dublin,2026-05-09,,,1.00
+SYN-0434,Operations,Dublin,2024-08-16,2029-03-24,Voluntary,0.80
+SYN-0435,People,Dublin,2024-11-05,,,0.80
+SYN-0436,Customer Support,Galway,2022-07-26,2026-10-12,Voluntary,1.00
+SYN-0437,Engineering,Dublin,2021-02-25,2025-09-19,Voluntary,1.00
+SYN-0438,Engineering,Dublin,2024-04-25,2026-01-22,Voluntary,0.50
+SYN-0439,Finance,Galway,2026-10-12,,,0.50
+SYN-0440,People,Dublin,2020-05-12,,,1.00
+SYN-0441,Engineering,Galway,2023-07-02,,,0.50
+SYN-0442,People,Dublin,2024-01-18,,,0.80
+SYN-0443,People,Dublin,2021-06-05,2026-02-20,Voluntary,1.00
+SYN-0444,Finance,Galway,2025-03-08,,,1.00
+SYN-0445,People,Dublin,2021-02-15,2024-07-14,Involuntary,0.50
+SYN-0446,Sales,Galway,2021-01-15,,,1.00
+SYN-0447,People,Dublin,2021-06-13,2024-08-25,Involuntary,1.00
+SYN-0448,Customer Support,Dublin,2026-02-06,2029-09-01,Voluntary,1.00
+SYN-0449,Sales,Cork,2020-10-01,,,1.00
+SYN-0450,Finance,Cork,2025-02-20,,,1.00
+SYN-0451,Sales,Galway,2025-08-14,2030-01-16,Voluntary,1.00
+SYN-0452,Operations,Galway,2023-08-23,2026-07-22,Voluntary,1.00
+SYN-0453,Finance,Galway,2021-08-03,,,0.50
+SYN-0454,Operations,Galway,2022-07-31,2026-05-21,Voluntary,0.50
+SYN-0455,People,Dublin,2024-01-30,,,0.50
+SYN-0456,Sales,Cork,2021-08-27,2021-11-24,Involuntary,1.00
+SYN-0457,Customer Support,Dublin,2026-08-23,,,1.00
+SYN-0458,People,Cork,2022-12-09,,,1.00
+SYN-0459,Engineering,Dublin,2022-10-10,,,0.80
+SYN-0460,Finance,Dublin,2021-10-23,2025-02-04,Voluntary,0.80
+SYN-0461,People,Dublin,2024-02-18,,,0.50
+SYN-0462,Operations,Cork,2022-03-23,,,1.00
+SYN-0463,Operations,Dublin,2021-12-06,2024-07-05,Voluntary,0.80
+SYN-0464,Sales,Dublin,2024-05-17,,,1.00
+SYN-0465,Finance,Galway,2025-06-28,,,1.00
+SYN-0466,Customer Support,Dublin,2021-01-05,,,1.00
+SYN-0467,Finance,Dublin,2024-03-05,,,0.80
+SYN-0468,Engineering,Dublin,2022-08-26,2026-06-28,Voluntary,1.00
+SYN-0469,People,Dublin,2023-03-27,2023-10-27,Voluntary,0.80
+SYN-0470,People,Cork,2025-02-16,,,1.00
+SYN-0471,Sales,Dublin,2025-12-03,,,1.00
+SYN-0472,Customer Support,Cork,2020-04-26,2025-01-15,Voluntary,1.00
+SYN-0473,Finance,Cork,2021-04-18,2026-02-14,Involuntary,1.00
+SYN-0474,People,Cork,2022-03-24,,,1.00
+SYN-0475,Engineering,Dublin,2026-03-31,2030-02-26,Involuntary,0.80
+SYN-0476,Operations,Dublin,2022-08-04,,,0.50
+SYN-0477,Sales,Galway,2020-04-07,,,0.80
+SYN-0478,Operations,Cork,2026-06-25,2029-02-24,Voluntary,1.00
+SYN-0479,Operations,Cork,2025-05-23,2027-09-25,Voluntary,1.00
+SYN-0480,Operations,Dublin,2022-06-23,2024-05-12,Voluntary,1.00
+SYN-0481,Finance,Dublin,2020-08-23,2020-12-04,Voluntary,0.50
+SYN-0482,Sales,Cork,2020-04-04,,,1.00
+SYN-0483,Sales,Dublin,2020-02-02,2024-06-25,Involuntary,0.50
+SYN-0484,Sales,Dublin,2022-05-26,,,1.00
+SYN-0485,Sales,Cork,2020-04-30,2024-12-21,Involuntary,1.00
+SYN-0486,People,Dublin,2022-11-09,,,1.00
+SYN-0487,Sales,Cork,2025-09-11,2026-05-13,Voluntary,0.50
+SYN-0488,People,Cork,2025-01-01,2026-03-02,Voluntary,1.00
+SYN-0489,Finance,Galway,2020-02-15,,,1.00
+SYN-0490,Operations,Dublin,2020-07-15,,,0.50
+SYN-0491,Customer Support,Galway,2024-09-17,,,0.80
+SYN-0492,Customer Support,Cork,2024-10-03,2026-04-18,Voluntary,1.00
+SYN-0493,Finance,Galway,2023-03-11,,,0.50
+SYN-0494,Engineering,Dublin,2023-10-01,,,1.00
+SYN-0495,Operations,Dublin,2024-07-15,2026-09-01,Voluntary,1.00
+SYN-0496,Sales,Dublin,2025-06-02,2028-12-10,Voluntary,1.00
+SYN-0497,Sales,Dublin,2021-08-16,2022-06-25,Voluntary,1.00
+SYN-0498,Engineering,Galway,2025-03-10,,,1.00
+SYN-0499,Operations,Galway,2021-09-11,,,1.00
+SYN-0500,Operations,Dublin,2020-07-19,,,1.00
+SYN-0501,Engineering,Dublin,2023-10-17,,,0.50
+SYN-0502,Engineering,Dublin,2025-02-12,,,0.50
+SYN-0503,Engineering,Dublin,2023-02-17,,,0.80
+SYN-0504,Finance,Cork,2020-10-27,2024-07-29,Voluntary,1.00
+SYN-0505,People,Cork,2023-03-10,2024-04-10,Involuntary,1.00
+SYN-0506,Finance,Dublin,2023-09-13,,,0.50
+SYN-0507,Engineering,Dublin,2026-03-07,,,1.00
+SYN-0508,People,Dublin,2020-09-02,2022-08-11,Voluntary,1.00
+SYN-0509,Finance,Dublin,2022-06-02,,,1.00
+SYN-0510,Customer Support,Dublin,2024-04-13,2024-08-29,Voluntary,1.00
+SYN-0511,Operations,Dublin,2023-09-17,2028-02-09,Voluntary,1.00
+SYN-0512,Customer Support,Cork,2021-08-15,2022-12-18,Involuntary,1.00
+SYN-0513,Customer Support,Dublin,2021-09-04,,,0.80
+SYN-0514,Finance,Dublin,2022-03-21,,,1.00
+SYN-0515,Customer Support,Cork,2020-01-10,,,0.80
+SYN-0516,People,Dublin,2026-02-17,2028-04-26,Involuntary,0.80
+SYN-0517,Engineering,Dublin,2026-01-27,,,0.50
+SYN-0518,Sales,Dublin,2021-09-01,2022-03-02,Voluntary,0.50
+SYN-0519,Engineering,Galway,2025-09-21,,,1.00
+SYN-0520,Customer Support,Dublin,2022-03-24,2026-11-27,Voluntary,1.00
+SYN-0521,Engineering,Dublin,2023-05-27,,,1.00
+SYN-0522,Customer Support,Dublin,2020-05-03,,,1.00
+SYN-0523,Operations,Dublin,2022-10-25,,,1.00
+SYN-0524,Operations,Dublin,2024-02-14,,,0.50
+SYN-0525,Customer Support,Dublin,2021-06-11,2024-12-14,Voluntary,0.80
+SYN-0526,Customer Support,Dublin,2025-12-09,,,1.00
+SYN-0527,Customer Support,Cork,2020-10-04,,,0.50
+SYN-0528,Sales,Galway,2021-10-11,,,0.50
+SYN-0529,Engineering,Galway,2026-07-21,,,0.80
+SYN-0530,Engineering,Dublin,2022-08-06,,,1.00
+SYN-0531,Sales,Dublin,2022-06-07,,,1.00
+SYN-0532,Customer Support,Dublin,2025-11-20,2029-11-27,Voluntary,1.00
+SYN-0533,Engineering,Dublin,2025-09-05,2027-01-21,Voluntary,1.00
+SYN-0534,People,Galway,2026-09-15,2027-02-18,Voluntary,1.00
+SYN-0535,Finance,Dublin,2025-09-23,,,1.00
+SYN-0536,Engineering,Dublin,2026-05-07,,,0.50
+SYN-0537,Sales,Dublin,2024-01-27,,,1.00
+SYN-0538,Customer Support,Galway,2023-06-18,,,1.00
+SYN-0539,People,Dublin,2021-08-26,,,0.80
+SYN-0540,Customer Support,Dublin,2026-04-21,,,0.50
+SYN-0541,Sales,Galway,2022-03-13,,,0.50
+SYN-0542,Engineering,Dublin,2022-01-19,,,1.00
+SYN-0543,Engineering,Cork,2025-12-18,,,0.80
+SYN-0544,Sales,Galway,2021-12-18,,,1.00
+SYN-0545,Engineering,Galway,2024-02-22,,,1.00
+SYN-0546,Sales,Dublin,2024-10-02,2028-04-30,Voluntary,1.00
+SYN-0547,Finance,Galway,2021-11-04,,,1.00
+SYN-0548,Engineering,Dublin,2022-12-14,2024-04-14,Voluntary,1.00
+SYN-0549,Engineering,Dublin,2021-03-18,,,1.00
+SYN-0550,Customer Support,Cork,2023-11-13,2024-11-07,Voluntary,1.00
+SYN-0551,People,Galway,2026-07-27,,,0.50
+SYN-0552,Customer Support,Dublin,2021-04-16,,,1.00
+SYN-0553,Customer Support,Galway,2022-08-06,,,1.00
+SYN-0554,Sales,Galway,2025-08-08,2027-06-09,Voluntary,1.00
+SYN-0555,Finance,Dublin,2022-08-10,,,0.80
+SYN-0556,Operations,Galway,2025-07-08,2026-06-19,Voluntary,1.00
+SYN-0557,Finance,Dublin,2025-12-06,,,1.00
+SYN-0558,Sales,Dublin,2023-01-29,2024-11-20,Voluntary,0.80
+SYN-0559,People,Cork,2026-05-13,,,0.50
+SYN-0560,Customer Support,Galway,2023-05-30,,,1.00
+SYN-0561,Finance,Dublin,2023-02-05,2027-07-17,Voluntary,1.00
+SYN-0562,Finance,Dublin,2025-02-25,,,0.80
+SYN-0563,Sales,Dublin,2021-01-26,,,0.50
+SYN-0564,Sales,Dublin,2021-12-20,,,1.00
+SYN-0565,Customer Support,Dublin,2020-11-17,,,1.00
+SYN-0566,People,Dublin,2023-08-13,,,1.00
+SYN-0567,Finance,Dublin,2025-11-01,,,1.00
+SYN-0568,Engineering,Dublin,2025-10-15,,,0.50
+SYN-0569,Operations,Cork,2023-11-29,2028-07-08,Voluntary,1.00
+SYN-0570,Operations,Dublin,2024-01-03,2028-08-03,Voluntary,1.00
+SYN-0571,Sales,Galway,2026-01-05,2029-06-30,Voluntary,1.00
+SYN-0572,Sales,Dublin,2024-02-16,,,1.00
+SYN-0573,Sales,Dublin,2023-12-14,,,0.80
+SYN-0574,People,Galway,2026-04-10,,,1.00
+SYN-0575,Sales,Dublin,2023-03-13,,,0.80
+SYN-0576,Customer Support,Dublin,2023-10-30,2026-04-16,Involuntary,0.80
+SYN-0577,Customer Support,Dublin,2020-03-14,,,1.00
+SYN-0578,Sales,Dublin,2021-11-16,2024-01-02,Voluntary,1.00
+SYN-0579,Finance,Dublin,2025-05-31,,,0.50
+SYN-0580,Sales,Dublin,2024-10-31,,,1.00
+SYN-0581,Customer Support,Dublin,2024-04-15,2026-06-19,Voluntary,1.00
+SYN-0582,Engineering,Dublin,2026-01-30,,,1.00
+SYN-0583,Engineering,Dublin,2020-01-06,,,1.00
+SYN-0584,Operations,Dublin,2023-05-01,,,1.00
+SYN-0585,Customer Support,Dublin,2025-09-28,,,0.80
+SYN-0586,People,Dublin,2024-05-20,,,1.00
+SYN-0587,Sales,Dublin,2023-08-12,,,0.50
+SYN-0588,Operations,Galway,2024-01-29,,,1.00
+SYN-0589,Finance,Dublin,2023-04-27,,,1.00
+SYN-0590,Operations,Galway,2021-09-26,,,1.00
+SYN-0591,Customer Support,Dublin,2021-08-05,2026-05-26,Voluntary,0.50
+SYN-0592,Operations,Dublin,2025-03-24,,,1.00
+SYN-0593,People,Cork,2024-01-01,2028-04-11,Voluntary,1.00
+SYN-0594,Engineering,Dublin,2026-06-26,2030-08-11,Involuntary,0.50
+SYN-0595,Operations,Cork,2020-03-14,2021-07-16,Voluntary,0.80
+SYN-0596,Sales,Galway,2022-10-25,,,1.00
+SYN-0597,Operations,Galway,2024-06-27,,,1.00
+SYN-0598,Sales,Dublin,2026-04-24,2027-07-13,Voluntary,0.50
+SYN-0599,Customer Support,Dublin,2020-03-06,,,0.80
+SYN-0600,Finance,Cork,2023-02-16,,,0.50
+SYN-0601,Operations,Dublin,2020-08-09,2025-05-18,Voluntary,1.00
+SYN-0602,Operations,Cork,2021-09-30,,,1.00
+SYN-0603,Operations,Dublin,2026-10-07,2028-03-25,Voluntary,0.80
+SYN-0604,Sales,Dublin,2026-04-10,2030-07-01,Voluntary,1.00
+SYN-0605,Finance,Dublin,2026-01-14,2029-05-17,Voluntary,0.50
+SYN-0606,People,Dublin,2024-08-27,,,0.80
+SYN-0607,Engineering,Cork,2025-11-09,2030-05-20,Voluntary,1.00
+SYN-0608,Engineering,Cork,2021-01-09,,,1.00
+SYN-0609,Finance,Dublin,2026-05-07,,,1.00
+SYN-0610,Sales,Dublin,2023-04-01,2027-08-05,Voluntary,0.80
+SYN-0611,Sales,Dublin,2026-09-16,,,0.80
+SYN-0612,Finance,Dublin,2020-05-02,,,1.00
+SYN-0613,People,Dublin,2020-11-12,2025-05-24,Involuntary,1.00
+SYN-0614,Customer Support,Dublin,2024-09-03,,,1.00
+SYN-0615,Customer Support,Galway,2025-12-15,,,0.50
+SYN-0616,People,Dublin,2025-09-05,,,1.00
+SYN-0617,People,Dublin,2020-11-06,,,1.00
+SYN-0618,Finance,Dublin,2021-08-03,2022-08-05,Voluntary,1.00
+SYN-0619,Customer Support,Dublin,2020-05-16,,,0.80
+SYN-0620,Customer Support,Galway,2026-02-16,,,1.00
+SYN-0621,Customer Support,Dublin,2025-09-21,,,1.00
+SYN-0622,Customer Support,Dublin,2020-08-23,,,0.80
+SYN-0623,Operations,Galway,2024-05-14,,,1.00
+SYN-0624,Finance,Dublin,2025-02-19,2029-07-18,Voluntary,0.80
+SYN-0625,Operations,Cork,2023-04-17,,,1.00
+SYN-0626,Engineering,Galway,2025-05-25,,,1.00
+SYN-0627,Customer Support,Dublin,2022-10-04,2024-06-14,Voluntary,1.00
+SYN-0628,Engineering,Dublin,2024-09-11,,,0.80
+SYN-0629,Finance,Dublin,2026-04-22,,,0.80
+SYN-0630,Sales,Dublin,2021-02-20,,,0.80
+SYN-0631,Finance,Dublin,2022-09-17,,,0.80
+SYN-0632,Sales,Dublin,2025-12-12,2026-12-27,Voluntary,1.00
+SYN-0633,Customer Support,Dublin,2020-08-30,2022-05-19,Voluntary,1.00
+SYN-0634,People,Galway,2020-04-27,2023-07-13,Voluntary,0.80
+SYN-0635,Customer Support,Dublin,2021-07-14,2024-11-20,Voluntary,0.50
+SYN-0636,Finance,Dublin,2020-01-16,2023-02-02,Voluntary,1.00
+SYN-0637,Finance,Dublin,2023-09-11,,,1.00
+SYN-0638,Operations,Dublin,2022-10-28,,,0.80
+SYN-0639,Engineering,Galway,2026-04-12,,,0.50
+SYN-0640,People,Dublin,2025-12-12,,,0.50
+SYN-0641,People,Dublin,2020-03-03,,,1.00
+SYN-0642,Finance,Cork,2021-04-26,2025-02-26,Voluntary,1.00
+SYN-0643,Sales,Dublin,2023-07-22,,,0.50
+SYN-0644,Finance,Galway,2025-03-24,,,1.00
+SYN-0645,Finance,Cork,2022-12-21,,,1.00
+SYN-0646,Operations,Cork,2023-12-16,2025-05-29,Voluntary,0.50
+SYN-0647,Engineering,Galway,2020-09-22,,,0.50
+SYN-0648,Sales,Dublin,2025-12-13,2030-03-16,Voluntary,0.80
+SYN-0649,Sales,Dublin,2024-02-17,2028-09-23,Involuntary,0.50
+SYN-0650,Operations,Dublin,2021-12-28,,,1.00
+SYN-0651,Operations,Dublin,2024-05-05,2027-01-19,Involuntary,0.80
+SYN-0652,People,Dublin,2023-12-10,2025-07-09,Voluntary,1.00
+SYN-0653,Engineering,Galway,2023-09-19,2027-05-11,Voluntary,0.80
+SYN-0654,Engineering,Dublin,2020-08-20,,,0.80
+SYN-0655,Operations,Galway,2023-06-03,,,1.00
+SYN-0656,Finance,Cork,2024-09-17,2026-01-02,Involuntary,1.00
+SYN-0657,Sales,Cork,2020-09-11,,,1.00
+SYN-0658,Customer Support,Cork,2020-11-01,2021-03-16,Voluntary,0.50
+SYN-0659,Sales,Cork,2024-08-23,2026-10-02,Voluntary,1.00
+SYN-0660,Customer Support,Galway,2021-01-07,2025-09-12,Involuntary,0.80
+SYN-0661,Customer Support,Dublin,2026-09-22,2030-03-23,Voluntary,0.80
+SYN-0662,People,Dublin,2025-05-13,2027-04-29,Voluntary,1.00
+SYN-0663,Finance,Dublin,2020-03-05,2021-09-07,Voluntary,1.00
+SYN-0664,Operations,Galway,2020-02-07,2023-06-11,Voluntary,1.00
+SYN-0665,People,Dublin,2022-10-28,2024-09-11,Voluntary,1.00
+SYN-0666,People,Cork,2023-03-18,,,0.80
+SYN-0667,Finance,Galway,2023-06-16,2025-09-04,Voluntary,1.00
+SYN-0668,Operations,Dublin,2025-09-19,2026-03-31,Voluntary,0.50
+SYN-0669,Sales,Dublin,2026-05-21,,,1.00
+SYN-0670,Sales,Galway,2026-01-31,,,1.00
+SYN-0671,Finance,Dublin,2022-12-29,,,1.00
+SYN-0672,Finance,Galway,2024-04-02,,,0.80
+SYN-0673,People,Galway,2021-09-24,,,0.50
+SYN-0674,People,Dublin,2024-02-16,2024-04-22,Voluntary,0.80
+SYN-0675,Sales,Dublin,2023-09-11,2028-05-11,Voluntary,0.50
+SYN-0676,Engineering,Dublin,2026-04-04,,,1.00
+SYN-0677,Sales,Galway,2021-05-01,,,1.00
+SYN-0678,Finance,Cork,2024-02-15,,,1.00
+SYN-0679,Customer Support,Dublin,2021-05-04,2024-02-26,Voluntary,1.00
+SYN-0680,Operations,Cork,2022-01-08,,,0.80
+SYN-0681,Sales,Dublin,2026-08-18,,,0.80
+SYN-0682,Finance,Dublin,2025-07-25,,,0.80
+SYN-0683,Sales,Galway,2025-03-05,,,1.00
+SYN-0684,Customer Support,Dublin,2021-07-26,,,1.00
+SYN-0685,Finance,Galway,2020-09-06,,,1.00
+SYN-0686,Customer Support,Galway,2026-01-01,,,1.00
+SYN-0687,Customer Support,Galway,2022-12-14,,,1.00
+SYN-0688,Engineering,Cork,2023-09-08,2025-11-23,Voluntary,1.00
+SYN-0689,Engineering,Galway,2020-10-11,,,1.00
+SYN-0690,Customer Support,Dublin,2021-09-09,,,0.80
+SYN-0691,Sales,Dublin,2021-01-12,,,0.50
+SYN-0692,Engineering,Dublin,2026-06-26,,,0.80
+SYN-0693,Engineering,Dublin,2020-10-18,2025-04-10,Voluntary,1.00
+SYN-0694,People,Dublin,2025-08-24,,,1.00
+SYN-0695,Engineering,Dublin,2025-08-15,,,0.80
+SYN-0696,People,Dublin,2026-06-28,2027-10-23,Voluntary,1.00
+SYN-0697,Operations,Dublin,2022-08-12,,,1.00
+SYN-0698,Operations,Galway,2026-03-23,2030-11-10,Voluntary,1.00
+SYN-0699,Operations,Dublin,2026-03-25,,,0.80
+SYN-0700,Customer Support,Galway,2023-06-21,,,1.00
+SYN-0701,People,Dublin,2025-07-25,,,0.80
+SYN-0702,Customer Support,Dublin,2020-04-14,2024-02-11,Involuntary,0.80
+SYN-0703,Finance,Dublin,2020-06-08,,,0.50
+SYN-0704,Sales,Cork,2023-03-24,2027-09-20,Voluntary,0.80
+SYN-0705,Finance,Dublin,2026-07-20,2027-03-16,Voluntary,1.00
+SYN-0706,Sales,Galway,2024-07-27,,,1.00
+SYN-0707,Operations,Dublin,2023-03-31,,,1.00
+SYN-0708,Sales,Dublin,2020-06-02,,,1.00
+SYN-0709,Customer Support,Dublin,2021-12-08,,,0.50
+SYN-0710,Customer Support,Galway,2026-03-13,2029-07-10,Voluntary,0.50
+SYN-0711,Customer Support,Dublin,2025-10-20,2026-03-21,Voluntary,1.00
+SYN-0712,Finance,Dublin,2022-06-06,,,0.80
+SYN-0713,Customer Support,Cork,2023-07-13,2025-06-27,Voluntary,1.00
+SYN-0714,Engineering,Galway,2021-10-01,,,1.00
+SYN-0715,Customer Support,Cork,2025-08-30,,,1.00
+SYN-0716,Operations,Dublin,2025-12-09,,,1.00
+SYN-0717,Operations,Galway,2020-03-27,2023-09-27,Involuntary,0.50
+SYN-0718,Customer Support,Dublin,2026-04-16,,,1.00
+SYN-0719,Sales,Galway,2025-05-28,2027-03-23,Voluntary,1.00
+SYN-0720,Finance,Galway,2020-07-03,2022-12-23,Involuntary,0.80
+SYN-0721,Engineering,Dublin,2021-11-23,,,1.00
+SYN-0722,Customer Support,Cork,2026-02-23,,,0.50
+SYN-0723,Engineering,Dublin,2026-01-28,2029-04-04,Voluntary,0.80
+SYN-0724,Customer Support,Cork,2026-04-23,,,1.00
+SYN-0725,Engineering,Dublin,2021-04-03,,,0.50
+SYN-0726,Finance,Dublin,2020-06-25,,,1.00
+SYN-0727,People,Galway,2021-07-24,,,1.00
+SYN-0728,Engineering,Dublin,2022-07-15,,,1.00
+SYN-0729,Finance,Dublin,2023-04-23,2025-04-25,Voluntary,0.80
+SYN-0730,Customer Support,Dublin,2025-09-29,,,0.50
+SYN-0731,Customer Support,Dublin,2024-05-06,,,1.00
+SYN-0732,Sales,Dublin,2023-04-26,,,0.80
+SYN-0733,People,Dublin,2023-02-06,2023-03-30,Voluntary,1.00
+SYN-0734,Engineering,Dublin,2021-01-03,2021-10-08,Voluntary,0.50
+SYN-0735,Sales,Dublin,2025-01-17,,,1.00
+SYN-0736,Operations,Galway,2022-12-08,2024-06-21,Voluntary,0.80
+SYN-0737,People,Galway,2025-04-02,,,0.50
+SYN-0738,Operations,Dublin,2025-08-25,,,0.50
+SYN-0739,Engineering,Dublin,2021-05-27,2024-02-26,Involuntary,1.00
+SYN-0740,Customer Support,Dublin,2022-07-16,,,1.00
+SYN-0741,Customer Support,Galway,2021-07-09,,,0.80
+SYN-0742,Sales,Dublin,2020-09-11,2022-07-20,Voluntary,0.80
+SYN-0743,People,Dublin,2020-10-14,2022-03-25,Involuntary,1.00
+SYN-0744,Customer Support,Cork,2020-06-10,2025-02-25,Voluntary,1.00
+SYN-0745,Finance,Galway,2025-08-23,,,1.00
+SYN-0746,Operations,Dublin,2021-12-01,,,1.00
+SYN-0747,Engineering,Cork,2024-02-05,,,0.80
+SYN-0748,Finance,Dublin,2022-09-27,2027-04-21,Voluntary,1.00
+SYN-0749,Sales,Galway,2025-01-17,,,1.00
+SYN-0750,Finance,Dublin,2024-06-11,2029-05-06,Voluntary,1.00
+SYN-0751,Engineering,Galway,2023-12-10,,,0.80
+SYN-0752,Operations,Dublin,2025-07-12,,,0.80
+SYN-0753,People,Dublin,2022-03-23,2024-08-20,Involuntary,1.00
+SYN-0754,Sales,Cork,2022-01-11,,,0.50
+SYN-0755,Operations,Dublin,2022-12-19,2026-04-26,Voluntary,1.00
+SYN-0756,Customer Support,Dublin,2020-03-12,,,1.00
+SYN-0757,Engineering,Cork,2020-02-03,,,1.00
+SYN-0758,Operations,Dublin,2024-12-19,,,1.00
+SYN-0759,Sales,Dublin,2022-06-16,2026-05-02,Voluntary,0.80
+SYN-0760,Engineering,Dublin,2020-04-01,,,1.00
+SYN-0761,Finance,Galway,2022-01-15,2023-09-27,Involuntary,0.50
+SYN-0762,Finance,Dublin,2020-09-29,2024-02-05,Involuntary,1.00
+SYN-0763,Sales,Dublin,2022-07-01,,,1.00
+SYN-0764,Engineering,Cork,2026-03-13,2027-01-25,Voluntary,1.00
+SYN-0765,Operations,Dublin,2026-10-31,,,0.80
+SYN-0766,Operations,Cork,2020-01-27,,,0.50
+SYN-0767,Operations,Dublin,2026-04-09,,,1.00
+SYN-0768,Customer Support,Dublin,2025-10-29,,,1.00
+SYN-0769,People,Dublin,2020-03-12,2024-10-02,Voluntary,0.50
+SYN-0770,Sales,Dublin,2020-10-29,,,1.00
+SYN-0771,Customer Support,Cork,2023-10-24,,,1.00
+SYN-0772,Sales,Dublin,2023-01-28,2024-08-09,Involuntary,1.00
+SYN-0773,Finance,Cork,2023-09-06,,,1.00
+SYN-0774,Sales,Galway,2023-03-02,,,0.50
+SYN-0775,People,Dublin,2021-01-30,2023-03-27,Voluntary,1.00
+SYN-0776,Engineering,Dublin,2025-08-02,2028-10-12,Involuntary,1.00
+SYN-0777,Sales,Dublin,2021-06-16,,,0.50
+SYN-0778,People,Dublin,2020-03-12,2021-05-28,Voluntary,0.80
+SYN-0779,People,Dublin,2025-09-08,2028-10-26,Voluntary,0.50
+SYN-0780,People,Galway,2026-05-21,2029-10-20,Voluntary,0.80
+SYN-0781,Customer Support,Dublin,2026-02-25,,,0.80
+SYN-0782,Sales,Cork,2025-02-18,,,0.80
+SYN-0783,Operations,Dublin,2025-11-11,,,0.50
+SYN-0784,Customer Support,Cork,2023-10-09,2028-07-31,Voluntary,0.50
+SYN-0785,Operations,Dublin,2024-07-18,2027-06-30,Involuntary,1.00
+SYN-0786,People,Galway,2020-11-29,,,1.00
+SYN-0787,Finance,Dublin,2021-12-18,,,1.00
+SYN-0788,Operations,Dublin,2022-07-14,,,0.50
+SYN-0789,Operations,Cork,2025-09-11,,,0.50
+SYN-0790,Finance,Galway,2023-11-29,,,0.80
+SYN-0791,Customer Support,Galway,2024-12-16,,,0.80
+SYN-0792,Operations,Dublin,2023-02-22,2027-12-13,Voluntary,1.00
+SYN-0793,Finance,Dublin,2020-02-28,,,0.50
+SYN-0794,Finance,Dublin,2021-10-02,2025-04-13,Voluntary,0.80
+SYN-0795,Engineering,Dublin,2020-11-30,,,1.00
+SYN-0796,Finance,Dublin,2021-10-29,2026-09-02,Voluntary,0.80
+SYN-0797,Customer Support,Dublin,2022-02-09,,,0.50
+SYN-0798,Engineering,Dublin,2023-04-24,,,1.00
+SYN-0799,People,Cork,2022-07-01,2023-04-07,Voluntary,0.50
+SYN-0800,Sales,Dublin,2022-03-29,,,0.50
