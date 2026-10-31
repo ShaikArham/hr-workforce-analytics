@@ -4,6 +4,8 @@ An auditable Python workforce analysis pipeline and interactive HR dashboard bui
 
 **The 800 supplied employee records are fictional.** This is a new portfolio demonstration built in October 2026, not a report for a real employer or evidence of historical commercial results.
 
+[Open the live Workforce Atlas dashboard](https://shaikarham.github.io/hr-workforce-analytics/site/)
+
 ## Run locally
 
 Requires Python 3.12 or later. No external Python packages are needed.
