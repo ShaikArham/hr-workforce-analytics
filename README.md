@@ -1,4 +1,58 @@
-# Workforce Atlas · HR Analytics
+<div align="center">
+
+# WORKFORCE ATLAS
+
+### MAKE EVERY HEADCOUNT ADD UP.
+
+**Auditable workforce metrics, from employee events to an explainable HR dashboard.**
+
+[**Explore the demo**](https://shaikarham.github.io/hr-workforce-analytics/site/) · [**Source repository**](https://github.com/ShaikArham/hr-workforce-analytics) · [**Arham's portfolio**](https://arham-bi.vercel.app/)
+
+![Project](https://img.shields.io/badge/Portfolio-Independent%20project-075d60?style=flat-square) ![Evidence](https://img.shields.io/badge/Approach-Evidence%20first-334155?style=flat-square)
+
+*Shaik Arham Saquib · Dublin, Ireland*
+
+</div>
+
+---
+
+## 01 / THE QUESTION
+
+**Can a workforce report explain precisely why headcount and turnover changed?**
+
+The project reconciles opening headcount, hires, exits and closing headcount, and calculates turnover from employee-days rather than a misleading closing snapshot.
+
+> **The goal:** Show the reasoning behind the result, not just the interface that displays it.
+
+## 02 / AT A GLANCE
+
+**800 fictional employee records | 536 + 125 − 46 = 615 closing headcount | 13 tests**
+
+| Reviewer's lens | What to look for |
+| :--- | :--- |
+| **Product thinking** | The operational question and intended user journey |
+| **Engineering** | Python 3.12+, standard library, aggregate JSON/CSV, static dashboard. |
+| **Evidence** | Reproducible examples, explicit rules and documented boundaries |
+| **Trust** | Descriptive analytics only. No attrition prediction, employment decisions or real employee records. |
+
+## 03 / FIVE-MINUTE REVIEW
+
+Start with the 536 + 125 − 46 reconciliation, inspect denominator definitions, then filter department/location and export monthly results.
+
+## 04 / WHAT IT DEMONSTRATES
+
+- **Problem framing:** Make the operational decision and its context explicit.
+- **Traceability:** Explain the inputs, transformations and outputs a reviewer can inspect.
+- **Responsible claims:** Separate fictional scenarios, demonstrated results and future work.
+- **Communication:** Make technical decisions understandable to both analysts and hiring managers.
+
+## 05 / IMPLEMENTATION AND REPRODUCTION
+
+The original project documentation follows below, including exact commands, metric definitions, architecture, test evidence and limitations where available. The project README remains the authoritative source for its own implementation details.
+
+---
+
+## Detailed project documentation
 
 An auditable Python workforce analysis pipeline and interactive HR dashboard built by Shaik Arham Saquib.
 
